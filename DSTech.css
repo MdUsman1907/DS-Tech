@@ -1,0 +1,173 @@
+#logo {
+  width: 200px;
+  margin: 10px;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 5px 0;
+}
+
+#menubar {
+  margin-left: auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.h1 {
+  margin-left: 10px;
+  margin-right: 60px;
+}
+
+.fsize {
+  font-size: 15px;
+  font-family: Poppins;
+}
+
+#fti {
+  font-size: 18px;
+}
+
+#tech {
+  margin-right: auto;
+  height: 500px;
+  width: 400px;
+}
+
+.div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.two {
+  float: right;
+}
+
+.reach {
+  margin: 30px 70px;
+}
+
+.obf {
+  text-align: center;
+  align-items: center;
+  font-size: larger;
+}
+
+.cards3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.name1 {
+  height: 150px;
+  width: 280px;
+  border: 1px solid whitesmoke;
+  border-radius: 15px;
+  padding: 20px 20px;
+  box-shadow: 0px 2px 3px gray;
+}
+
+.cards4 {
+  display: flex;
+}
+
+.div1 {
+  margin-left: 30px;
+}
+
+.div2 {
+  margin: -20px 20px;
+}
+
+.name2 {
+  height: 160px;
+  width: 250px;
+  border: 1px solid whitesmoke;
+  border-radius: 15px;
+  padding: 20px 20px;
+  box-shadow: 0px 2px 3px gray;
+}
+
+.about {
+  margin: 30px 25px;
+}
+
+.but {
+  border-radius: 10px;
+  background-color: aqua;
+  border-color: aqua;
+  box-shadow: 0px 5px 10px aqua;
+  margin: 0px 8px;
+  height: 50px;
+  width: 150px;
+  padding: 8px 15px;
+}
+
+.img {
+  height: 500px;
+  width: 500px;
+}
+
+.Secure {
+  margin: 20px 100px;
+}
+
+.port {
+  display: flex;
+  margin: 5px 25px;
+}
+
+.hands {
+  height: 450px;
+  width: 1200px;
+}
+
+.con {
+  position: relative;
+  max-width: 700px;
+}
+
+.con .content {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 172%;
+  height: 100%;
+}
+
+.row {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.col-4 {
+  padding-top: 5%;
+}
+
+.chev {
+  padding-top: 5px;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.last {
+  margin-left: 10%;
+}
+
+.line {
+  display: flex;
+  float: right;
+}/*# sourceMappingURL=DSTech.css.map */
